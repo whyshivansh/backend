@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deepanshu-three/backend.git"
+    "url": "git+https://github.com/whyshivansh/backend.git"
   },
   "keywords": [
     "javascript",
@@ -18,9 +18,9 @@
   "author": "shivansh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Deepanshu-three/backend/issues"
+    "url": "https://github.com/whyshivansh/backend/issues"
   },
-  "homepage": "https://github.com/Deepanshu-three/backend#readme",
+  "homepage": "https://github.com/whyshivansh/backend#readme",
   "devDependencies": {
     "nodemon": "^3.0.3",
     "prettier": "^3.2.5"
